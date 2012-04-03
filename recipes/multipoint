@@ -3,4 +3,5 @@
 # src: https://github.com/DamonOehlman/multipoint
 # bug: https://github.com/DamonOehlman/multipoint/issues
 
-github://DamonOehlman/multipoint/pkg/oldschool/multipoint.js
+[core]
+js <= github://DamonOehlman/multipoint/pkg/{{ buildstyle }}/multipoint.js

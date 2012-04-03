@@ -2,4 +2,5 @@
 # url: https://github.com/DamonOehlman/classtweak
 # bug: https://github.com/DamonOehlman/classtweak/issues
 
-github://DamonOehlman/classtweak/classtweak.js
+[core]
+js <= github://DamonOehlman/classtweak/classtweak.js

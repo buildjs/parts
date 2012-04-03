@@ -4,4 +4,5 @@
 # bug: https://github.com/sidelab/leaflet-decarta/issues
 # req: leaflet
 
-github://sidelab/leaflet-decarta/dist/Leaflet.deCarta.min.js
+[core]
+js <= github://sidelab/leaflet-decarta/dist/Leaflet.deCarta.min.js

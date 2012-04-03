@@ -3,4 +3,7 @@
 # src: https://github.com/CloudMade/Leaflet
 # bug: https://github.com/CloudMade/Leaflet/issues
 
-github://DamonOehlman/leaflet/dist/leaflet-src.js
+[core]
+js <= github://DamonOehlman/leaflet/dist/leaflet-src.js
+css <= github://CloudMade/Leaflet/dist/leaflet.css
+css <= github://CloudMade/Leaflet/dist/leaflet.ie.css

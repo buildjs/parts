@@ -5,4 +5,5 @@
 # bug: https://github.com/documentcloud/backbone/issues
 # req: underscore
 
-github://documentcloud/backbone/backbone.js
+[core]
+js <= github://documentcloud/backbone/backbone.js

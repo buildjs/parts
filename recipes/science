@@ -2,4 +2,8 @@
 # url: https://github.com/jasondavies/science.js
 # bug: https://github.com/jasondavies/science.js/issues
 
-github://jasondavies/science.js/science.js
+[core]
+js <= github://jasondavies/science.js/science.js
+
+[stats]
+js <= github://jasondavies/science.js/science.stats.js

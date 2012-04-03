@@ -2,4 +2,5 @@
 # url: https://github.com/cujojs/when
 # bug: https://github.com/cujojs/when/issues
 
-github://cujojs/when/when.js
+[core]
+js <= github://cujojs/when/when.js

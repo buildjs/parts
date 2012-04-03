@@ -3,4 +3,5 @@
 # src: https://github.com/DamonOehlman/alignit
 # bug: https://github.com/DamonOehlman/alignit/issues
 
-github://DamonOehlman/alignit/alignit.js
+[core]
+js <= github://DamonOehlman/alignit/alignit.js

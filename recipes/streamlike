@@ -3,4 +3,5 @@
 # src: https://github.com/DamonOehlman/streamlike
 # bug: https://github.com/DamonOehlman/streamlike/issues
 
-github://DamonOehlman/streamlike/pkg/oldschool/streamlike.js
+[core]
+js <= github://DamonOehlman/streamlike/pkg/{{ buildstyle }}/streamlike.js

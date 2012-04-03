@@ -2,4 +2,5 @@
 # src: https://github.com/DamonOehlman/matchme
 # bug: https://github.com/DamonOehlman/matchme/issues
 
-github://DamonOehlman/matchme/pkg/oldschool/matchme.js
+[core]
+js <= github://DamonOehlman/matchme/pkg/{{ buildstyle }}/matchme.js

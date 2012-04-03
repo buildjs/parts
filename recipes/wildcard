@@ -3,4 +3,5 @@
 # src: https://github.com/DamonOehlman/wildcard
 # bug: https://github.com/DamonOehlman/wildcard/issues
 
-github://DamonOehlman/wildcard/pkg/oldschool/wildcard.js
+[core]
+js <= github://DamonOehlman/wildcard/pkg/{{ buildstyle }}/wildcard.js

@@ -3,4 +3,5 @@
 # src: https://github.com/DamonOehlman/registry
 # bug: https://github.com/DamonOehlman/registry/issues
 
-github://DamonOehlman/registry/pkg/oldschool/registry.js
+[core]
+js <= github://DamonOehlman/registry/pkg/{{ buildstyle }}/registry.js

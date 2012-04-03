@@ -3,4 +3,5 @@
 # bug: https://github.com/DamonOehlman/flip/issues
 # req: eve, classtweak, when
 
-github://DamonOehlman/flip/dist/flip.js
+[core]
+js <= github://DamonOehlman/flip/dist/flip.js

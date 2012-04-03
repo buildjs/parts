@@ -4,4 +4,5 @@
 # src: https://github.com/caolan/nimble
 # bug: https://github.com/caolan/nimble/issues
 
-github://caolan/nimble/nimble.js
+[core]
+js <= github://caolan/nimble/nimble.js

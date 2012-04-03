@@ -4,4 +4,5 @@
 # src: https://github.com/bestiejs/json3
 # bug: https://github.com/bestiejs/json3/issues
 
-https://raw.github.com/bestiejs/json3/gh-pages/lib/json3.js
+[core]
+js <= https://raw.github.com/bestiejs/json3/gh-pages/lib/json3.js
