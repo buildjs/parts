@@ -1,0 +1,7 @@
+# dsc: Simple String Variable Replacement Formatter
+# author: DamonOehlman
+# src: https://github.com/DamonOehlman/formatter
+# bug: https://github.com/DamonOehlman/formatter/issues
+
+[core]
+js <= github://DamonOehlman/formatter/pkg/{{ buildstyle }}/formatter.js
