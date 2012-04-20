@@ -1,0 +1,7 @@
+# dsc: A JSON-P shim around Superagent for zeroconf json-p usage where required
+# author: DamonOehlman
+# src: https://github.com/DamonOehlman/jsonget
+# bug: https://github.com/DamonOehlman/jsonget/issues
+
+[core]
+js <= github://DamonOehlman/jsonget/pkg/{{ buildstyle }}/jsonget.js
