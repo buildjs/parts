@@ -1,0 +1,5 @@
+# dsc: Proj4JS - Library for transforming point coordinates
+# src: http://trac.osgeo.org/proj4js/
+
+[core]
+js <= http://svn.osgeo.org/metacrs/proj4js/trunk/lib/proj4js-compressed.js

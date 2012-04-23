@@ -1,0 +1,6 @@
+# dsc: Javascript Number Extensions
+# url: http://safalra.com/web-design/javascript/number-object-extensions/
+# src: http://safalra.com/web-design/javascript/number-object-extensions/
+
+[core]
+js <= http://safalra.com/web-design/javascript/object-extensions/number/Number-extensions.js
