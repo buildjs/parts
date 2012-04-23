@@ -1,0 +1,7 @@
+# dsc: Proj4Leaflet - An attempt to integrate proj4js with Leaflet
+# src: https://github.com/kartena/Proj4Leaflet
+# issues: https://github.com/kartena/Proj4Leaflet/issues
+# req: proj4js, leaflet
+
+[core]
+js <= github://kartena/Proj4Leaflet/src/proj4leaflet.js
