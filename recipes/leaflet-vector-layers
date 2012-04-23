@@ -5,4 +5,4 @@
 # req: leaflet
 
 [core]
-js <= github://JasonSanford/leaflet-vector-layers/blob/master/dist/lvector.js
+js <= github://JasonSanford/leaflet-vector-layers/dist/lvector.js
