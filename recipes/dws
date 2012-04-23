@@ -1,0 +1,7 @@
+# dsc: DWS is a simple JS wrapper to deCarta's hosted webservices that works both in node.js and the browser. 
+# author: DamonOehlman
+# src: https://github.com/DamonOehlman/dws
+# bug: https://github.com/DamonOehlman/dws/issues
+
+[core]
+js <= github://DamonOehlman/dws/pkg/{{ buildstyle }}/dws.js
