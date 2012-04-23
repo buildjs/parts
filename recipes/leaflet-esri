@@ -1,0 +1,10 @@
+# dsc: Leaflet ESRI plugins by DTS Agile
+# url: https://github.com/dtsagile/Leaflet
+# src: https://github.com/dtsagile/Leaflet
+# bug: https://github.com/dtsagile/Leaflet/issues
+# req: leaflet
+
+[core]
+js <= github://dtsagile/Leaflet/src/layer/AgsDynamicLayer.js
+js <= github://dtsagile/Leaflet/src/layer/AgsFeatureLayer.js
+js <= github://dtsagile/Leaflet/src/layer/tile/TileLayer.AGSDynamic.js
