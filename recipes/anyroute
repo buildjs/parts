@@ -1,0 +1,10 @@
+# dsc: A Spatial Routing Library designed to let you choose your Routing Provider
+# author: DamonOehlman
+# src: https://github.com/DamonOehlman/anyroute
+# bug: https://github.com/DamonOehlman/anyroute/issues
+
+[core]
+js <= github://DamonOehlman/anyroute/pkg/{{ buildstyle }}/anyroute.js
+
+[decarta]
+js <= github://DamonOehlman/anyroute/pkg/{{ buildstyle }}/decartaRouter.js
