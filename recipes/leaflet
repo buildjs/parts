@@ -7,3 +7,14 @@
 js <= github://DamonOehlman/leaflet/dist/leaflet-src.js
 css <= github://CloudMade/Leaflet/dist/leaflet.css
 css <= github://CloudMade/Leaflet/dist/leaflet.ie.css
+
+[decarta]
+js <= github://sidelab/leaflet-decarta/dist/Leaflet.deCarta.min.js
+
+[esri]
+js <= github://dtsagile/Leaflet/src/layer/AgsDynamicLayer.js
+js <= github://dtsagile/Leaflet/src/layer/AgsFeatureLayer.js
+js <= github://dtsagile/Leaflet/src/layer/tile/TileLayer.AGSDynamic.js
+
+[vectorlayers]
+js <= github://JasonSanford/leaflet-vector-layers/dist/lvector.js
