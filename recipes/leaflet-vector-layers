@@ -1,0 +1,8 @@
+# dsc: Leaflet vector (Point, Polyline, Polygon) layers from multiple geo web services including ArcGIS Server, GeoIQ, Arc2Earth, CartoDB, GIS Cloud, etc
+# url: http://geojason.info/leaflet-vector-layers/
+# src: https://github.com/JasonSanford/leaflet-vector-layers
+# bug: https://github.com/JasonSanford/leaflet-vector-layers/issues
+# req: leaflet
+
+[core]
+js <= github://JasonSanford/leaflet-vector-layers/blob/master/dist/lvector.js
