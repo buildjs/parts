@@ -6,3 +6,11 @@
 
 [core]
 js <= github://DamonOehlman/mapcontrols/dist/mapcontrols.js
+
+[zoom]
+js <= github://DamonOehlman/mapcontrols/dist/controls/zoom.js
+css <= github://DamonOehlman/mapcontrols/dist/controls/zoom.css
+
+[scale]
+js <= github://DamonOehlman/mapcontrols/dist/controls/scale.js
+css <= github://DamonOehlman/mapcontrols/dist/controls/scale.css
