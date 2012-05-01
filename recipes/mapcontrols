@@ -5,4 +5,4 @@
 # req: alignit, eve, classtweak, interact
 
 [core]
-js <= github://sidelab/mapcontrols/dist/mapcontrols.js
+js <= github://DamonOehlman/mapcontrols/dist/mapcontrols.js
