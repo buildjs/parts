@@ -1,0 +1,8 @@
+# dsc: A Markdown parser for javascript
+# author: evilstreak
+# url: 
+# src: https://github.com/evilstreak/markdown-js
+# bug: https://github.com/evilstreak/markdown-js/issues
+
+[core]
+js <= github://evilstreak/markdown-js/lib/markdown.js
