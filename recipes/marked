@@ -1,0 +1,8 @@
+# dsc: A markdown parser and compiler. Built for speed.
+# author: chjj
+# url: 
+# src: https://github.com/chjj/marked
+# bug: https://github.com/chjj/marked/issues
+
+[core]
+js <= github://chjj/marked/lib/marked.js
