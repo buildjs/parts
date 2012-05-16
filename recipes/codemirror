@@ -1,0 +1,22 @@
+# dsc: In-browser code editor
+# author: marijnh
+# url: http://codemirror.net/
+# src: https://github.com/marijnh/CodeMirror2
+# bug: https://github.com/marijnh/CodeMirror2/issues
+
+[core]
+js  <= github://marijnh/CodeMirror2/lib/codemirror.js
+css <= github://marijnh/CodeMirror2/lib/codemirror.css
+
+[util]
+js  <= github://marijnh/CodeMirror2/lib/util/$util.js
+css <= github://marijnh/CodeMirror2/lib/util/$util.css
+
+[theme]
+css <= github://marijnh/CodeMirror2/theme/$theme.css
+
+[mode]
+js  <= github://marijnh/CodeMirror2/mode/$mode/$mode.js
+
+[keymap]
+js  <= github://marijnh/CodeMirror2/keymap/$keymap.js
