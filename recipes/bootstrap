@@ -8,38 +8,5 @@
 [core]
 css <= http://twitter.github.com/bootstrap/assets/css/bootstrap.css
 
-[alert]
-js <= github://twitter/bootstrap/js/bootstrap-alert.js
-
-[button]
-js <= github://twitter/bootstrap/js/bootstrap-button.js
-
-[carousel]
-js <= github://twitter/bootstrap/js/bootstrap-carousel.js
-
-[collapse]
-js <= github://twitter/bootstrap/js/bootstrap-collapse.js
-
-[dropdown]
-js <= github://twitter/bootstrap/js/bootstrap-dropdown.js
-
-[modal]
-js <= github://twitter/bootstrap/js/bootstrap-modal.js
-
-[popover]
-js <= github://twitter/bootstrap/js/bootstrap-popover.js
-
-[scrollspy]
-js <= github://twitter/bootstrap/js/bootstrap-scrollspy.js
-
-[tab]
-js <= github://twitter/bootstrap/js/bootstrap-tab.js
-
-[tooltip]
-js <= github://twitter/bootstrap/js/bootstrap-tooltip.js
-
-[transition]
-js <= github://twitter/bootstrap/js/bootstrap-transition.js
-
-[typeahead]
-js <= github://twitter/bootstrap/js/bootstrap-typeahead.js
+[addin]
+js <= github://twitter/bootstrap/js/bootstrap-$addin.js
