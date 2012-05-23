@@ -1,0 +1,7 @@
+# dsc: Cross Browser CSS Styling Helper
+# author: DamonOehlman
+# src: https://github.com/DamonOehlman/stylar
+# bug: https://github.com/DamonOehlman/stylar/issues
+
+[core]
+js <= github://DamonOehlman/stylar/pkg/{{ buildstyle }}/stylar.js
