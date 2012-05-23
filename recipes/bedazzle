@@ -1,0 +1,7 @@
+# dsc: CSS3 Animation Scripting with JS
+# author: DamonOehlman
+# src: https://github.com/DamonOehlman/bedazzle
+# bug: https://github.com/DamonOehlman/bedazzle/issues
+
+[core]
+js <= github://DamonOehlman/bedazzle/pkg/{{ buildstyle }}/bedazzle.js
