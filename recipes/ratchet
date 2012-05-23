@@ -1,0 +1,7 @@
+# dsc: CSS3 Transforms Parser and Manipulator #browser #css3 #experimental
+# author: DamonOehlman
+# src: https://github.com/DamonOehlman/ratchet
+# bug: https://github.com/DamonOehlman/ratchet/issues
+
+[core]
+js <= github://DamonOehlman/ratchet/pkg/{{ buildstyle }}/ratchet.js
