@@ -1,0 +1,11 @@
+# dsc: Feature detect HTML5 and CSS3 features, with handy css and javascript hooks so you can progressively enhance to your heart's content.
+# author: Modernizr
+# url: http://www.modernizr.com
+# src: https://github.com/Modernizr/Modernizr
+# bug: https://github.com/Modernizr/Modernizr/issues
+
+[core]
+js <= github://Modernizr/Modernizr/modernizr.js
+
+[feature]
+js <= github://Modernizr/Modernizr/feature-detects/$feature.js
