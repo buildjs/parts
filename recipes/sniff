@@ -1,0 +1,8 @@
+# dsc: Simple Javascript Type Detection
+# author: DamonOehlman
+# url: 
+# src: https://github.com/DamonOehlman/sniff
+# bug: https://github.com/DamonOehlman/sniff/issues
+
+[core]
+js <= github://DamonOehlman/sniff/sniff.js
