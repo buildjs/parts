@@ -1,0 +1,9 @@
+# dsc: A Bakeable (see BakeJS) collection of HTML5 and Javascript Shims
+# author: DamonOehlman
+# src: https://github.com/DamonOehlman/shim
+# bug: https://github.com/DamonOehlman/shim/issues
+
+[core]
+
+[js]
+js <= github://DamonOehlman/shim/js/$js.js
