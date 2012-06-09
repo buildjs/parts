@@ -4,6 +4,7 @@
 # bug: https://github.com/DamonOehlman/shim/issues
 
 [core]
+js <= github://DamonOehlman/shim/shim.js
 
 [js]
 js <= github://DamonOehlman/shim/js/$js.js
