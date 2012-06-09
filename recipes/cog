@@ -1,0 +1,11 @@
+# dsc: Core Useful Javascript Libraries - AJAX, Extend, JSON, etc
+# author: DamonOehlman
+# url: 
+# src: https://github.com/DamonOehlman/cog
+# bug: https://github.com/DamonOehlman/cog/issues
+
+[core]
+js <= github://DamonOehlman/cog/cog.js
+
+[fn]
+js <= github://DamonOehlman/cog/fns/$fn.js
