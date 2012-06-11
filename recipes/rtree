@@ -1,0 +1,8 @@
+# dsc: R-Tree Library for Javascript.
+# author: imbcmdth
+# url: http://stackulator.com/rtree/
+# src: https://github.com/imbcmdth/RTree
+# bug: https://github.com/imbcmdth/RTree/issues
+
+[core]
+js <= github://imbcmdth/RTree/src/rtree.js
