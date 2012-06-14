@@ -5,4 +5,4 @@
 # req: leaflet
 
 [core]
-js <= github://sidelab/leaflet-decarta/dist/Leaflet.deCarta.min.js
+js <= github://sidelab/leaflet-decarta/dist/Leaflet.deCarta.js
