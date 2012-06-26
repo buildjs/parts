@@ -1,0 +1,7 @@
+# dsc: ECMAScript 5 compatibility shims for legacy JavaScript engines
+# author: kriskowal
+# src: https://github.com/kriskowal/es5-shim
+# bug: https://github.com/kriskowal/es5-shim/issues
+
+[core]
+js <= github://kriskowal/es5-shim/es5-shim.js
