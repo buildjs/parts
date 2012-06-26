@@ -1,0 +1,8 @@
+# dsc: Some Javascript String Comparison Functions
+# author: DamonOehlman
+# url: null
+# src: https://github.com/DamonOehlman/strcmp.js
+# bug: https://github.com/DamonOehlman/strcmp.js/issues
+
+[core]
+js <= github://DamonOehlman/strcmp.js/pkg/{{ buildstyle }}/strcmp.js
