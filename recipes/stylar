@@ -4,4 +4,4 @@
 # bug: https://github.com/DamonOehlman/stylar/issues
 
 [core]
-js <= github://DamonOehlman/stylar/pkg/{{ buildstyle }}/stylar.js
+js <= github://DamonOehlman/stylar/dist/{{ buildstyle }}/stylar.js

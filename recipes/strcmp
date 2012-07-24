@@ -5,4 +5,4 @@
 # bug: https://github.com/DamonOehlman/strcmp.js/issues
 
 [core]
-js <= github://DamonOehlman/strcmp.js/pkg/{{ buildstyle }}/strcmp.js
+js <= github://DamonOehlman/strcmp.js/dist/{{ buildstyle }}/strcmp.js

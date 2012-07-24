@@ -3,4 +3,4 @@
 # bug: https://github.com/DamonOehlman/timelord/issues
 
 [core]
-js <= github://DamonOehlman/timelord/pkg/{{ buildstyle }}/timelord.js
+js <= github://DamonOehlman/timelord/dist/{{ buildstyle }}/timelord.js

@@ -4,4 +4,4 @@
 # bug: https://github.com/DamonOehlman/ratchet/issues
 
 [core]
-js <= github://DamonOehlman/ratchet/pkg/{{ buildstyle }}/ratchet.js
+js <= github://DamonOehlman/ratchet/dist/{{ buildstyle }}/ratchet.js
