@@ -3,4 +3,4 @@
 # bug: https://github.com/sidelab/geojs/issues
 
 [core]
-js <= github://DamonOehlman/geojs/pkg/{{ buildstyle }}/geojs.js
+js <= github://DamonOehlman/geojs/dist/{{ buildstyle }}/geojs.js

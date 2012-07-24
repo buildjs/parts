@@ -4,4 +4,4 @@
 # bug: https://github.com/DamonOehlman/events-amd/issues
 
 [core]
-js <= github://DamonOehlman/events-amd/pkg/{{ buildstyle }}/events.js
+js <= github://DamonOehlman/events-amd/dist/{{ buildstyle }}/events.js
