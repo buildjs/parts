@@ -4,4 +4,4 @@
 # bug: https://github.com/DamonOehlman/multipoint/issues
 
 [core]
-js <= github://DamonOehlman/multipoint/pkg/{{ buildstyle }}/multipoint.js
+js <= github://DamonOehlman/multipoint/dist/{{ buildstyle }}/multipoint.js

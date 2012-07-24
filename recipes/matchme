@@ -3,4 +3,4 @@
 # bug: https://github.com/DamonOehlman/matchme/issues
 
 [core]
-js <= github://DamonOehlman/matchme/pkg/{{ buildstyle }}/matchme.js
+js <= github://DamonOehlman/matchme/dist/{{ buildstyle }}/matchme.js
