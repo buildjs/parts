@@ -4,4 +4,4 @@
 # bug: https://github.com/DamonOehlman/registry/issues
 
 [core]
-js <= github://DamonOehlman/registry/pkg/{{ buildstyle }}/registry.js
+js <= github://DamonOehlman/registry/dist/{{ buildstyle }}/registry.js
