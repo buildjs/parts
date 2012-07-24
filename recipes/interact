@@ -5,4 +5,4 @@
 # req: eve
 
 [core]
-js <= github://DamonOehlman/interact/pkg/{{ buildstyle }}/interact.js
+js <= github://DamonOehlman/interact/dist/{{ buildstyle }}/interact.js
