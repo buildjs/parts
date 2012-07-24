@@ -4,4 +4,4 @@
 # bug: https://github.com/DamonOehlman/formatter/issues
 
 [core]
-js <= github://DamonOehlman/formatter/pkg/{{ buildstyle }}/formatter.js
+js <= github://DamonOehlman/formatter/dist/{{ buildstyle }}/formatter.js
