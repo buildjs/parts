@@ -4,4 +4,4 @@
 # bug: https://github.com/DamonOehlman/dws/issues
 
 [core]
-js <= github://DamonOehlman/dws/pkg/{{ buildstyle }}/dws.js
+js <= github://DamonOehlman/dws/dist/{{ buildstyle }}/dws.js

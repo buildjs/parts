@@ -4,4 +4,4 @@
 # bug: https://github.com/DamonOehlman/wildcard/issues
 
 [core]
-js <= github://DamonOehlman/wildcard/pkg/{{ buildstyle }}/wildcard.js
+js <= github://DamonOehlman/wildcard/dist/{{ buildstyle }}/wildcard.js
