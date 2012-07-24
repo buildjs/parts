@@ -4,4 +4,4 @@
 # bug: https://github.com/DamonOehlman/streamlike/issues
 
 [core]
-js <= github://DamonOehlman/streamlike/pkg/{{ buildstyle }}/streamlike.js
+js <= github://DamonOehlman/streamlike/dist/{{ buildstyle }}/streamlike.js

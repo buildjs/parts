@@ -5,4 +5,4 @@
 # bug: https://github.com/DamonOehlman/piper/issues
 
 [core]
-js <= github://DamonOehlman/piper/pkg/{{ buildstyle }}/piper.js
+js <= github://DamonOehlman/piper/dist/{{ buildstyle }}/piper.js
