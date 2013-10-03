@@ -1,12 +1,12 @@
 # dsc: HTML, CSS, and JS toolkit from Twitter
 # author: twitter
-# url: http://twitter.github.com/bootstrap
-# src: https://github.com/twitter/bootstrap
-# bug: https://github.com/twitter/bootstrap/issues
+# url: http://getbootstrap.com/
+# src: https://github.com/twbs/bootstrap
+# bug: https://github.com/twbs/bootstrap/issues
 # req: jquery
 
 [core]
-css <= http://twitter.github.com/bootstrap/assets/css/bootstrap.css
+css <= github://twbs/bootstrap/dist/css/bootstrap.css
+js <= github://twbs/bootstrap/js/bootstrap.js
 
 [addin]
-js <= github://twitter/bootstrap/js/bootstrap-$addin.js
