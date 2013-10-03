@@ -4,9 +4,9 @@
 # bug: https://github.com/CloudMade/Leaflet/issues
 
 [core]
-js <= github://DamonOehlman/leaflet/dist/leaflet-src.js
-css <= github://CloudMade/Leaflet/dist/leaflet.css
-css <= github://CloudMade/Leaflet/dist/leaflet.ie.css
+js <= http://cdn.leafletjs.com/leaflet-0.6.4/leaflet.js
+css <= http://cdn.leafletjs.com/leaflet-0.6.4/leaflet.css
+css <= http://cdn.leafletjs.com/leaflet-0.6.4/leaflet.ie.css
 
 [decarta]
 js <= github://sidelab/leaflet-decarta/dist/Leaflet.deCarta.min.js
