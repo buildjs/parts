@@ -7,6 +7,6 @@
 
 [core]
 css <= github://twbs/bootstrap/dist/css/bootstrap.css
-js <= github://twbs/bootstrap/js/bootstrap.js
+js <= github://twbs/bootstrap/dist/js/bootstrap.js
 
 [addin]
